@@ -15,6 +15,6 @@ public class Test {
         map.forEach((s, v) -> res.put(v, s));
         System.out.println(res);
         System.out.println(3*0.1==3*0.1);
-
+        System.out.println("666");
     }
 }
